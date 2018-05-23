@@ -1,0 +1,33 @@
+body {
+    background-image: url("../images/tapestry.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.w3-tangerine {
+    font-family: "tangerine", serif;
+    text-align: center;
+    font-size: 200px;
+    color: #3d0a8fcb;
+    background-color: rgba(250, 250, 210, 0.616);
+    padding: 16px;
+}
+
+.textContainer {
+    float: left;
+    padding: 16px;
+    background-color: lightsalmon;
+    clear: both;
+}
+
+#randomNumber {
+    float: left;
+    font-size: 50px;
+    background-color: lightgreen;
+    padding: 16px;
+    margin: 20px;
+    width: 150px;
+    clear: both;
+}
